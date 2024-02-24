@@ -1,0 +1,3 @@
+## Semantic segmentation task
+
+This project involves the development of a semantic segmentation model using TensorFlow and the U-Net architecture. The provided image showcases the segmentation result, with distinct colors representing different classified segments. The model is trained to identify and delineate multiple objects within an image, enhancing understanding of image composition at the pixel level.
